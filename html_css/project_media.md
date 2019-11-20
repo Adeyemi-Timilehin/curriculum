@@ -35,6 +35,7 @@ Send us your solution so we can show others! Submit a link to the Github [file](
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+*[Adeyemi Michael's solution](https://hadeymike10.github.io/Youtube_google/)-[View via browser(laptop)]
 * [Braxton Lemmon's solution](https://github.com/braxtonlemmon/youtube-clone) - [View in browser](https://braxtonlemmon.github.io/youtube-clone/)
 * [David Auza's and Eduardo Reis's solution](https://github.com/davidauza-engineer/Project-Embedding-Images-And-Video) - [View in browser](https://davidauza-engineer.github.io/Project-Embedding-Images-And-Video/)
 * [Gabriel's solution](https://github.com/gabytzubaws/Youtube_embedded_player_clone) 
@@ -77,6 +78,7 @@ Send us your solution so we can show others! Submit a link to the Github [file](
 * [walnutdust's solution](https://github.com/walnutdust/mock-youtube) - [View in browser](https://walnutdust.github.io/mock-youtube/)
 * [theghall's solution](https://github.com/theghall/odin-youtube.git) - [View in browser](https://theghall.github.io/odin-youtube/)
 * [Josh Archer's solution](https://gitlab.com/odin-project-josh-archer/embedding-images-and-video) - [View in browser](https://www.josharcher.uk/static/projects/odinproject/embeddingimagesvideo/)
+
 * [Jmooree30's solution](https://github.com/jmooree30/youtube) - [Live](https://jmooree30.github.io/youtube/)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/youtube-video-page) - [Live](https://jonathanyiv.github.io/youtube-video-page/)
 * [holdercp's solution](https://github.com/holdercp/bluetube) - [Live](https://holdercp.github.io/bluetube/)
