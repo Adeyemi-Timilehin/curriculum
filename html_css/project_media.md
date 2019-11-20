@@ -35,6 +35,7 @@ Send us your solution so we can show others! Submit a link to the Github [file](
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+*[Adeyemi Michael's solution](https://hadeymike10.github.io/Youtube_google/)-[view via browser (laptop)]
 * [Braxton Lemmon's solution](https://github.com/braxtonlemmon/youtube-clone) - [View in browser](https://braxtonlemmon.github.io/youtube-clone/)
 * [David Auza's and Eduardo Reis's solution](https://github.com/davidauza-engineer/Project-Embedding-Images-And-Video) - [View in browser](https://davidauza-engineer.github.io/Project-Embedding-Images-And-Video/)
 * [Gabriel's solution](https://github.com/gabytzubaws/Youtube_embedded_player_clone) 
